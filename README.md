@@ -20,4 +20,6 @@ Main: # Main file to run to execute the WCST
 
 -- System_files # Files of model's components (e.g. networks weights)
 
+
+
 Granato, G., &amp; Baldassarre, G. (2020). Internal Manipulation of Perceptual Representations in Human Flexible Cognition: A Computational Model. (PsyArXiv: https://doi.org/10.31234/osf.io/qanmf)
