@@ -5,13 +5,13 @@ This project investigates the relation between the internal representations (e.g
 In partricular this repository contains a computational model used to approach the second research topic (i.e. internal manipulation of perceptual representations, Granato and Baldassarre, 2020).
 
 <p align="center">
-  <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-representations-learning/blob/master/Functional_schema_GEMMA.jpg?raw=true" width="1000" title="hover text">
+  <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-representations-manipulation/blob/master/Functional_schema_model.jpg?raw=true" width="1000" title="hover text">
 </p>
 
  A video of the computational model that solves a neuropsychological task (Wisconsin Cards Sorting Tests, a neurpsychological task that measures the flexible cognition) is avaiable on https://youtu.be/pnBWWqhULsE.
  
  <p align="center">
-  <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-representations-learning/blob/master/Functional_schema_GEMMA.jpg?raw=true" width="1000" title="hover text">
+  <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-representations-manipulation/blob/master/Computational_schema_model.jpg?raw=true" width="1000" title="hover text">
 </p>
  
 The repository is organized in this way:
