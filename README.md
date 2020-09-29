@@ -2,8 +2,18 @@
 
 This project investigates the relation between the internal representations (e.g. the perceptual representation of the external world) and the flexible cognition and the flexible goal-directed behaviour. In particular here we study the hot issue "representations manipulation", i.e. how the brain of an embodied agent can flexibly online manipulate the own internal representation to achieve a goal.
 
-In partricular this repository contains a computational model used to approach the second research topic (i.e. internal manipulation of perceptual representations, Granato and Baldassarre, 2020). A video of the computational model that solves a neuropsychological task (Wisconsin Cards Sorting Tests, a neurpsychological task that measures the flexible cognition) is avaiable on https://youtu.be/pnBWWqhULsE.
+In partricular this repository contains a computational model used to approach the second research topic (i.e. internal manipulation of perceptual representations, Granato and Baldassarre, 2020).
 
+<p align="center">
+  <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-representations-learning/blob/master/Functional_schema_GEMMA.jpg?raw=true" width="1000" title="hover text">
+</p>
+
+ A video of the computational model that solves a neuropsychological task (Wisconsin Cards Sorting Tests, a neurpsychological task that measures the flexible cognition) is avaiable on https://youtu.be/pnBWWqhULsE.
+ 
+ <p align="center">
+  <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-representations-learning/blob/master/Functional_schema_GEMMA.jpg?raw=true" width="1000" title="hover text">
+</p>
+ 
 The repository is organized in this way:
 
 Main: # Main file to run to execute the WCST
