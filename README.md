@@ -4,22 +4,17 @@ This project investigates the relation between the internal representations (e.g
 
 In particular, this repository contains a computational model that corroborates the "three-components theory of flexible cognition" in Granato and Baldassarre (2021). A video of the computational model that solves a neuropsychological task (Wisconsin Cards Sorting Tests, a neurpsychological task that measures the flexible cognition) is avaiable on https://youtu.be/pnBWWqhULsE.
 
-<p align="center">
-
-  The three-components theory of flexible cognition
-  
+<p align="center">  
   <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-representations-manipulation/blob/master/3CT.jpg?raw=true" width="1000" title="hover text">
 </p>
 
 <p align="center">
-
   Computational model (functional schema)
   
   <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-representations-manipulation/blob/master/Functional_schema_model.jpg?raw=true" width="1000" title="hover text">
 </p>
  
- <p align="center">
- 
+ <p align="center"> 
    Computational model (computational schema)
    
   <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-representations-manipulation/blob/master/Computational_schema_model.jpg?raw=true" width="1000" title="hover text">
