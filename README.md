@@ -1,14 +1,14 @@
 # Internal-representations-and-Flexible-goal-directed-behaviour
 
-This project investigates the relation between the internal representations (e.g. the perceptual representation of the external world) and the flexible cognition and the flexible goal-directed behaviour. In particular here we study the hot issue "representations manipulation", i.e. how the brain of an embodied agent can flexibly online manipulate the own internal representation to achieve a goal.
+This project investigates the relation between the internal representations (e.g. the perceptual representation of the external world), flexible cognition and the flexible goal-directed behaviour. In particular, here we study the "representations manipulation", i.e. how the brain of an embodied agent can flexibly online manipulate the own internal representation to achieve a goal.
 
-In partricular this repository contains a computational model used to approach the second research topic (i.e. internal manipulation of perceptual representations, Granato and Baldassarre, 2020).
+In partricular, this repository contains a computational model that corroborates the "three-components theory of flexible cognition" in Granato and Baldassarre (2021).
 
 <p align="center">
   <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-representations-manipulation/blob/master/Functional_schema_model.jpg?raw=true" width="1000" title="hover text">
 </p>
 
- A video of the computational model that solves a neuropsychological task (Wisconsin Cards Sorting Tests, a neurpsychological task that measures the flexible cognition) is avaiable on https://youtu.be/pnBWWqhULsE.
+A video of the computational model that solves a neuropsychological task (Wisconsin Cards Sorting Tests, a neurpsychological task that measures the flexible cognition) is avaiable on https://youtu.be/pnBWWqhULsE.
  
  <p align="center">
   <img src="https://github.com/GiovanniGranato/Flexible-goal-directed-behaviour-and-representations-manipulation/blob/master/Computational_schema_model.jpg?raw=true" width="1000" title="hover text">
@@ -30,4 +30,5 @@ Main: # Main file to run to execute the WCST
 
 
 
-Granato, G., &amp; Baldassarre, G. (2020). Internal Manipulation of Perceptual Representations in Human Flexible Cognition: A Computational Model. (PsyArXiv: https://doi.org/10.31234/osf.io/qanmf)
+Granato, G., & Baldassarre, G. (2021). Internal manipulation of perceptual representations in human flexible cognition: A computational model. Neural Networks, 143, 572-594. (https://www.sciencedirect.com/science/article/pii/S0893608021002768)
+
